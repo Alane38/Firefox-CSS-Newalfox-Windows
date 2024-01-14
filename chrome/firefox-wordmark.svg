@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="42">
+   <style>
+      @font-face {
+         font-family: 'MyWebFont';
+         src: url('./Oxanium-SemiBold.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+     }  
+
+      .seriftext {
+         font-family: MyWebFont;
+         font-size: 35px;
+         fill: white;
+      }
+   </style>
+
+   <text x="5" y="40" class="seriftext" font-weight="bold" stroke="#27abd8" stroke-width="1.5" stroke-opacity="0.8">Newalfox</text>
+</svg>
